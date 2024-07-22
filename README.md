@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @PranaliNale
+- 👀 I’m interested in SQL,AWS,Kubernetes
+- 🌱 I’m currently learning AWS
+- 📫 How to reach me https://www.linkedin.com/in/pranali-nale-91744a112
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: life
